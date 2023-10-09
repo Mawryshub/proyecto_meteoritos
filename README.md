@@ -4,7 +4,10 @@ Meteoritos es un juego del tipo shmup 2D para PC donde debemos controlar la nave
 
 
 ***Engine:*** Godot v3.2.2
+
 ***Lenguaje:*** GDScript
-***Plataforma: *** PC
+
+***Plataforma:*** PC
+
 ***Genero:*** Shmup
 
